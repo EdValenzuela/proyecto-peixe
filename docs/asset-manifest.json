@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/proyecto-peixe/static/js/main.3afb67d1.chunk.js",
-    "main.js.map": "/proyecto-peixe/static/js/main.3afb67d1.chunk.js.map",
+    "main.js": "/proyecto-peixe/static/js/main.f9b5b8fe.chunk.js",
+    "main.js.map": "/proyecto-peixe/static/js/main.f9b5b8fe.chunk.js.map",
     "runtime-main.js": "/proyecto-peixe/static/js/runtime-main.86466674.js",
     "runtime-main.js.map": "/proyecto-peixe/static/js/runtime-main.86466674.js.map",
-    "static/js/2.f25e5474.chunk.js": "/proyecto-peixe/static/js/2.f25e5474.chunk.js",
-    "static/js/2.f25e5474.chunk.js.map": "/proyecto-peixe/static/js/2.f25e5474.chunk.js.map",
+    "static/js/2.59c947eb.chunk.js": "/proyecto-peixe/static/js/2.59c947eb.chunk.js",
+    "static/js/2.59c947eb.chunk.js.map": "/proyecto-peixe/static/js/2.59c947eb.chunk.js.map",
     "index.html": "/proyecto-peixe/index.html",
-    "precache-manifest.4ad9f493505c2fa611203df70eb00917.js": "/proyecto-peixe/precache-manifest.4ad9f493505c2fa611203df70eb00917.js",
+    "precache-manifest.f42aadd8283f3f682224c1cce2ded93f.js": "/proyecto-peixe/precache-manifest.f42aadd8283f3f682224c1cce2ded93f.js",
     "service-worker.js": "/proyecto-peixe/service-worker.js",
-    "static/js/2.f25e5474.chunk.js.LICENSE.txt": "/proyecto-peixe/static/js/2.f25e5474.chunk.js.LICENSE.txt"
+    "static/js/2.59c947eb.chunk.js.LICENSE.txt": "/proyecto-peixe/static/js/2.59c947eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.86466674.js",
-    "static/js/2.f25e5474.chunk.js",
-    "static/js/main.3afb67d1.chunk.js"
+    "static/js/2.59c947eb.chunk.js",
+    "static/js/main.f9b5b8fe.chunk.js"
   ]
 }

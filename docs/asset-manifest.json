@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/proyecto-peixe/static/js/main.f9b5b8fe.chunk.js",
-    "main.js.map": "/proyecto-peixe/static/js/main.f9b5b8fe.chunk.js.map",
+    "main.js": "/proyecto-peixe/static/js/main.f17b6625.chunk.js",
+    "main.js.map": "/proyecto-peixe/static/js/main.f17b6625.chunk.js.map",
     "runtime-main.js": "/proyecto-peixe/static/js/runtime-main.86466674.js",
     "runtime-main.js.map": "/proyecto-peixe/static/js/runtime-main.86466674.js.map",
     "static/js/2.59c947eb.chunk.js": "/proyecto-peixe/static/js/2.59c947eb.chunk.js",
     "static/js/2.59c947eb.chunk.js.map": "/proyecto-peixe/static/js/2.59c947eb.chunk.js.map",
     "index.html": "/proyecto-peixe/index.html",
-    "precache-manifest.f42aadd8283f3f682224c1cce2ded93f.js": "/proyecto-peixe/precache-manifest.f42aadd8283f3f682224c1cce2ded93f.js",
+    "precache-manifest.3004542121bd3c792e516ff9fc82a42b.js": "/proyecto-peixe/precache-manifest.3004542121bd3c792e516ff9fc82a42b.js",
     "service-worker.js": "/proyecto-peixe/service-worker.js",
     "static/js/2.59c947eb.chunk.js.LICENSE.txt": "/proyecto-peixe/static/js/2.59c947eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.86466674.js",
     "static/js/2.59c947eb.chunk.js",
-    "static/js/main.f9b5b8fe.chunk.js"
+    "static/js/main.f17b6625.chunk.js"
   ]
 }

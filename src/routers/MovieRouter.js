@@ -14,10 +14,10 @@ export const MovieRouter = () => {
         <Router>
             <div>
                 <Switch>
-                    <Route exact path="/MovieAPP" component={ MovieAPP } />
+                    <Route exact path="/" component={ MovieAPP } />
                     <Route exact path="/favorite" component={ MovieFavorite } />
                     <Route exact path="/detalle/:categoria" component={ MovieDetalle } />
-                    <Redirect to='/MovieAPP' />
+                    <Redirect to='/' />
                 </Switch>
             </div>
         </Router>

@@ -1,3 +1,15 @@
+## Instalaciones mediante _consola_ :octocat:
+
+```javascript
+
+  npm i //Instala packages de Node_modules
+  npm i react-router-dom //instalación de router
+  npm start //Iniciar proyecto 
+```
+
+
+![2020-07-31 21_02_22-CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US](https://user-images.githubusercontent.com/39087254/89094590-87c96f00-d393-11ea-960f-7f967a86f44b.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

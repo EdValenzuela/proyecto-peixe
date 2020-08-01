@@ -1,17 +1,14 @@
 import React from 'react';
-import { BrowserRouter as Router,
-        Switch,
-        Route,
-        Redirect } 
-from 'react-router-dom';
+import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
 
 import { MovieDetalle } from '../components/MovieDetalle';
 import { MovieAPP } from '../components/MovieAPP';
 import { MovieFavorite } from '../components/MovieFavorite';
 
 export const MovieRouter = () => {
+
     return (
-        <Router>
+        <BrowserRouter >
             <div>
                 <Switch>
                     <Route exact path="/" component={ MovieAPP } />
@@ -20,6 +17,6 @@ export const MovieRouter = () => {
                     <Redirect to='/' />
                 </Switch>
             </div>
-        </Router>
-    )
-}
+        </BrowserRouter>
+    );
+};

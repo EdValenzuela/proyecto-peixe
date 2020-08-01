@@ -13,7 +13,7 @@ export const MovieRouter = () => {
     return (
         <Router>
             <div>
-                <Switch>
+                <Switch basename='/miApp'>
                     <Route exact path="/" component={ MovieAPP } />
                     <Route exact path="/favorite" component={ MovieFavorite } />
                     <Route exact path="/detalle/:categoria" component={ MovieDetalle } />
